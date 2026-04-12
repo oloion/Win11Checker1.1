@@ -19,7 +19,7 @@ Pre-built executable: [`Win11Checker.exe`](https://github.com/olioin/Win11Checke
 ```bash
 pip install psutil
 pyinstaller --onefile --windowed --icon=icon.ico python_source_code.py
+```
 
 
-
-(⚠️ Note on VirusTotal: Some antivirus engines flag this tool as suspicious due to its use of PowerShell and PyInstaller packaging. This is a known false positive. The source code is open and auditable. No network calls, no persistence, no data exfiltration. We will fix it sooner)
+(⚠️ Note on VirusTotal: Some antivirus engines flag this tool as suspicious due to its use of PowerShell and PyInstaller packaging. This is a known false positive. The source code is open and auditable. No network calls, no persistence, no data exfiltration. We will fix it soon)
