@@ -22,4 +22,5 @@ pyinstaller --onefile --windowed --icon=icon.ico python_source_code.py
 ```
 
 
-(⚠️ Note on VirusTotal: Some antivirus engines flag this tool as suspicious due to its use of PowerShell and PyInstaller packaging. This is a known false positive. The source code is open and auditable. No network calls, no persistence, no data exfiltration. We will fix it soon)
+(⚠️ Note on VirusTotal: Some antivirus engines flag this tool as suspicious due to its use of PowerShell and PyInstaller packaging. This is a known false positive. The source code is open and auditable. No network calls, no persistence, no data exfiltration. We will fix it soon. 
+⚠️ The program may also freeze during log creation, which we will fix soon too)
