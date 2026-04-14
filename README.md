@@ -13,7 +13,7 @@ A simple Windows utility to verify the installation and basic system health of W
 - Cross-compatible with Windows 10/11
 
 ## 📥 Download
-Pre-built executable: [`Win11Checker.exe`](https://github.com/olioin/Win11Checker1.1/releases) 
+Pre-built executable: [`Win11Checker.exe`](https://github.com/oloion/Win11Checker1.1/releases) 
 
 ## 🛠️ Build from source
 ```bash
