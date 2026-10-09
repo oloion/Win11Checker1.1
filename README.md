@@ -1,6 +1,19 @@
 # Win11Checker
 
-A simple Windows utility to verify the installation and basic system health of Windows 10/11.
+A sleek dark-themed Windows utility to verify the installation and basic system health of Windows 10/11.
+
+## ✨ What's new in v2.0 "Aurora Edition"
+- 🌌 **Animated aurora gradient header** — live color-wave banner drawn on canvas
+- 🔵 **Live circular gauges** — real-time CPU load & memory usage with smooth animations
+- 🃏 **Glassmorphism card layout** — report console + dashboard side panels
+- 💡 **Neon buttons** with hover glow (Run Check / Copy Report)
+- 🎨 **Color-coded report console** — green OK, amber warnings, red errors
+- ⏳ **Non-blocking scans** — checks run on a background thread with a spinner (no more frozen window!)
+- 🧠 **"Tip of the moment"** rotator with Windows troubleshooting tips
+- 📋 One-click **Copy Report** to clipboard
+- 🛡️ Graceful fallbacks: skips PowerShell steps off-Windows, works without `psutil`
+
+## 🚀 Features
 
 > ✅ Checks OS version, RAM, disk space, update status, and more  
 > 🖥️ GUI built with `tkinter`  
